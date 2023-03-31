@@ -1,6 +1,6 @@
 Name:		texlive-exam-randomizechoices
 Version:	61719
-Release:	1
+Release:	2
 Summary:	Randomize mc choices using the exam class
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/exam-randomizechoices
