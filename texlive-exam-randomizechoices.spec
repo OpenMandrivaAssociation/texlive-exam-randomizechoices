@@ -3,7 +3,7 @@ Version:	61719
 Release:	2
 Summary:	Randomize mc choices using the exam class
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/exam-randomizechoices
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/exam-randomizechoices
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/exam-randomizechoices.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/exam-randomizechoices.doc.r%{version}.tar.xz
